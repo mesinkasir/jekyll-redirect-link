@@ -44,4 +44,4 @@ redirect_from:
 
 Next step: 
 
-[implementation jekyll redirect form →](/implementation)
+[implementation jekyll redirect form →](https://mesinkasir.github.io/jekyll-redirect-link/implementation)
