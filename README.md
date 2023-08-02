@@ -17,3 +17,5 @@ Run project
 or
 
 `jekyll serve`
+
+Run Demo [https://mesinkasir.github.io/jekyll-redirect-link/](https://mesinkasir.github.io/jekyll-redirect-link/)
