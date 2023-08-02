@@ -1,0 +1,8 @@
+- nav: Home
+  link: /
+- nav: How
+  link: /how
+- nav: Doc
+  link: /implementation
+- nav: Example
+  link: /example

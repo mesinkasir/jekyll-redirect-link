@@ -1,0 +1,5 @@
+<nav class="nav mb-3 p-3 border-bottom border-dark">
+{% for nav in site.data.nav %}
+<a class="nav-link" href="{{nav.link}}">{{nav.nav}}</a>
+{% endfor %}
+</nav>

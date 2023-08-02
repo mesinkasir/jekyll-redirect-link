@@ -1,0 +1,31 @@
+title: Jekyll Redirect Link
+description: Implementation how to work with jekyll redirect from plugins.
+url: https://mesinkasir.github.io/jekyll-redirect-link
+baseurl: 
+collections:
+  implementation:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "implementation"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+whitelist:
+  - jekyll-redirect-from
+redirect_from:
+  json: false
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
