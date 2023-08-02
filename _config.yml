@@ -1,6 +1,6 @@
 title: Jekyll Redirect Link
 description: Implementation how to work with jekyll redirect from plugins.
-baseurl: https://mesinkasir.github.io/jekyll-redirect-link
+url: https://mesinkasir.github.io/jekyll-redirect-link
 collections:
   implementation:
     output: true
